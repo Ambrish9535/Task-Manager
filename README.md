@@ -6,7 +6,7 @@ This repository contains a task manager application designed to help users organ
 - Task Deletion: Delete tasks that are no longer needed or completed.
 ### Technologies Used 
 - Frontend: HTML, CSS, JavaScript
-- Backend: XAMPP
+- Backend: PHP
 - Database: Mysql
 #### Getting Started
 To get started with the task manager application, follow these steps:
